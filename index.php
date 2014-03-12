@@ -1,3 +1,3 @@
 <script>
-location = "alexa.php";
+    location = "alexa.php";
 </script>

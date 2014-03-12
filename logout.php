@@ -3,5 +3,5 @@ session_start();
 unset($_SESSION['user']);
 ?>
 <script>
-location = "alexa.php";
+    location = "alexa.php";
 </script>
