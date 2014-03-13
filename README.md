@@ -1,7 +1,7 @@
 Competitor Watch
 ----------------
 
-If you want to keep an eye on your compititor without breaking into their servers, then this code is for you. It is mainly useful for Web Companies rather than offline companies.
+If you want to keep an eye on your compititor without breaking into their servers, then this code is for you. It is mainly useful for Web Companies rather than offline companies. Particularly for the companies who makes profit based on the number of users visit site.
 
 
 Features
