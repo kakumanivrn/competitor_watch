@@ -7,9 +7,9 @@ If you want to keep an eye on your compititor without breaking into their server
 Features
 --------
 This will give following information of your competitors:
-1) Alexa rank (Indian) of the site: This indicates where your compititor stand in comparision with websites of india.
-2) Facebook Likes: Likes for their official facebook page.
-3) Facebook talks: How many fb users are engaged in their facebook page.
+...Alexa rank (Indian) of the site: This indicates where your compititor stand in comparision with websites of india.
+...Facebook Likes: Likes for their official facebook page.
+...Facebook talks: How many fb users are engaged in their facebook page.
 
 
 How the code knows your compititor's Website link and Facebook page?
