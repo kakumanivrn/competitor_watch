@@ -6,7 +6,7 @@ If you want to keep an eye on your compititor without breaking into their server
 
 Features
 --------
-##This will give following information of your competitors:
+###This will give following information of your competitors:
 Alexa rank (Indian) of the site: This indicates where your compititor stand in comparision with websites of india.<br/>
 Facebook Likes: Likes for their official facebook page.<br/>
 Facebook talks: How many fb users are engaged in their facebook page.<br/>
