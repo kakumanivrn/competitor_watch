@@ -12,7 +12,7 @@ Facebook Likes: Likes for their official facebook page.<br/>
 Facebook talks: How many fb users are engaged in their facebook page.<br/>
 
 
-##How the code knows your compititor's Website link and Facebook page?
+###How the code knows your compititor's Website link and Facebook page?
 No, it does not know. So you need to give their site domain and also facebook in sites.txt file in the format:<br/>
 sitename1.com--facebookPageUsername1<br/>
 sitename2.com--facebookPageUsername2<br/>
