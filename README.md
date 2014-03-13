@@ -13,7 +13,7 @@ Facebook talks: How many fb users are engaged in their facebook page.<br/>
 
 
 ###How the code knows your compititor's Website link and Facebook page?
-No, it does not know. So you need to give their site domain and also facebook in sites.txt file in the format:<br/>
+No, it does not know. So you need to give their site domain and also facebook page username in sites.txt file. Each line contains one company, if you keep 10 lines you can review 10 companies info at a time. The format is :<br/>
 sitename1.com--facebookPageUsername1<br/>
 sitename2.com--facebookPageUsername2<br/>
 sitename3.com--facebookPageUsername3<br/>
